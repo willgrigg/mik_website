@@ -38,12 +38,14 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
-$serif-font-family: "Lora", serif !default;
+/*Remove this if it doesn't work:*/
+$headline-font: "Cabin", sans-serif !default;
+$serif-font-family: "Playfair Display", serif !default;
 $sans-serif-font-family: "Source Sans Pro", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
 $base-font-family: $sans-serif-font-family !default;
-$headline-font-family: $sans-serif-font-family !default;
+$headline-font-family: $headline-font !default;
 $title-font-family: $serif-font-family !default;
 $description-font-family: $serif-font-family !default;
 $meta-font-family: $serif-font-family !default;
