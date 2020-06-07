@@ -8,7 +8,7 @@ image:
 
 <u>[Starting at $10/each]</u>
 
-I usually make necklaces by request. <strong>I currently <em>do not</em> have any sample photos of my necklaces, but I can custom make them.</strong>
+Necklaces can come in any length with designs that incorporate beads, chains, charms, and more. If you have a special idea or enjoy my pieces <a href="mailto:madebymikaylastore@gmail.com">I would be happy to discuss designs with you.</a>
 
-<a href="mailto:madebymikaylastore@gmail.com">Contact me for details.</a>
+![image-center]({{ '/images/necklaces_example.png' | absolute_url }}){: .align-center}
 
