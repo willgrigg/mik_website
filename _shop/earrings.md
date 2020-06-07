@@ -7,9 +7,16 @@ image:
 
 <u>[Starting at $5/pair]</u>
 
-Earrings are probably my favorite thing to make. <strong>I currently <em>do not</em> have any sample photos of my earrings, but I can custom make them.</strong>
+Earrings are my specialty. I can make them in any color, shape, and design!
 
-<a href="mailto:madebymikaylastore@gmail.com">Contact me for details.</a>
+![image-center]({{ '/images/small_earrings_example.png' | absolute_url }}){: .align-center}
 
+Smaller earrings and beaded items come in many fun designs and can be customized to your preferences.
+
+![image-center]({{ '/images/large_earrings_example.png' | absolute_url }}){: .align-center}
+
+Large earrings and specialty sets can incorporate other items like weaving, wood burning, and sea shells. I love to create unique designs that catch the eye. 
+
+If you like a specific design or have something special in mind, <a href="mailto:madebymikaylastore@gmail.com">please contact me and we can discuss your project/idea.</a>
 
 
