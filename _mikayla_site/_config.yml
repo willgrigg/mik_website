@@ -105,3 +105,9 @@ defaults:
 author:
   name: Mikayla
   picture: /images/mik.jpeg
+  email:
+  links:
+    - title: Facebook
+      url: https://www.facebook.com/mikaylashandmadejewelry/?ref=bookmarks
+      icon: fab fa-facebook-square
+  

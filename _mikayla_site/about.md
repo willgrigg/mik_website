@@ -10,3 +10,5 @@ Hello!
 My name is  Mikayla. I have been making jewelry for over a decade. What started as one small stand has grown to be a life passion. I study many different jewelry making techniques and love to craft unique pieces for people, putting care and love into each design. 
 
 I hope you find something that strikes your fancy!
+
+If you'd like to make a request or recommendation, please contact <strong>madebymikaylastore@gmail.com</strong>.
