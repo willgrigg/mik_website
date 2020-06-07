@@ -5,10 +5,8 @@ permalink: /about/
 image: /images/about.png
 ---
 
-Hello!
+Hello, I'm Mikayla!
 
-My name is  Mikayla. I have been making jewelry for over a decade. What started as one small stand has grown to be a life passion. I study many different jewelry making techniques and love to craft unique pieces for people, putting care and love into each design. 
+I am a handcrafted jeweler based out of Idaho. I started a small jewelry stand in 2008 as a side hobby, which eventually grew into a life passion. I have been making jewelry and refining my technique ever since.
 
-I hope you find something that strikes your fancy!
-
-If you'd like to make a request or recommendation, please contact <strong><a href="mailto:madebymikaylastore@gmail.com">madebymikaylastore@gmail.com.</a></strong>
+If you like my work, I would love to discuss requests and special projects with you (I love creating unique pieces!) My e-mail address is: <strong><a href="mailto:madebymikaylastore@gmail.com">madebymikaylastore@gmail.com.</a></strong>
