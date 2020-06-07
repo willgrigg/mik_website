@@ -1,8 +1,8 @@
 ---
 title: "Bracelets"
 image: 
-  path: /images/placeholder_earrings.png
+  path: /images/bracelet.png
   thumbnail: /images/thumb_bracelet.png
 ---
 
-Here's another thing to see if this works out okay
+I've dabbled in bracelet-making for the past few years.

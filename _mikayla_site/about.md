@@ -11,4 +11,4 @@ My name is  Mikayla. I have been making jewelry for over a decade. What started 
 
 I hope you find something that strikes your fancy!
 
-If you'd like to make a request or recommendation, please contact <strong>madebymikaylastore@gmail.com</strong>.
+If you'd like to make a request or recommendation, please contact <strong><a href="mailto:madebymikaylastore@gmail.com">madebymikaylastore@gmail.com.</a></strong>

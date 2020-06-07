@@ -1,9 +1,9 @@
 ---
 title: "Necklaces"
 image: 
-  path: /images/placeholder_necklace.png
+  path: /images/necklace.png
   thumbnail: /images/thumb_necklace.png
   
 ---
 
-Some necklace stuff blah blah
+I usually make necklaces by request.
