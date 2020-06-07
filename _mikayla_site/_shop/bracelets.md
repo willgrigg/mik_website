@@ -1,8 +1,8 @@
 ---
-title: "Earrings"
+title: "Bracelets"
 image: 
   path: /images/placeholder_earrings.png
   thumbnail: /images/placeholder_earrings400x200.png
 ---
 
-I have recently discovered a love for this specific style.
+Here's another thing to see if this works out okay

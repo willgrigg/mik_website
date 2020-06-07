@@ -105,9 +105,3 @@ defaults:
 author:
   name: Mikayla
   picture: /images/mik.jpeg
-
-# Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
