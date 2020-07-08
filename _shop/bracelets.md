@@ -7,6 +7,16 @@ image:
 
 <u>[Starting at $10/each]</u>
 
-I've dabbled in bracelet-making for the past few years. <strong>I currently <em>do not</em> have any sample photos of my bracelets, but I can custom make them.</strong>
+![image-center]({{ '/images/bracelet0.png' | absolute_url }}){: .align-center}
 
-<a href="mailto:madebymikaylastore@gmail.com">Contact me for details.</a>
+I can customize bracelets based on size, colors and materials.
+
+![image-center]({{ '/images/bracelet1.png' | absolute_url }}){: .align-center}
+
+Most of my bracelets are beaded pieces. However, I love to incorporate macrame, metal, and other fun designs.
+
+![image-center]({{ '/images/bracelet2.png' | absolute_url }}){: .align-center}
+
+If you see something you like or have an idea for a special piece, <a href="mailto:madebymikaylastore@gmail.com">please contact me.</a>
+
+![image-center]({{ '/images/bracelet3.png' | absolute_url }}){: .align-center}
